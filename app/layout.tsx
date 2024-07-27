@@ -6,8 +6,8 @@ import Script from "next/script";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Telegram Mini App',
-  description: 'A simple Telegram Mini App using Next.js 14'
+  title: 'TapBlast Mini App',
+  description: 'TapBlast Tap To Earn'
 };
 
 export default function RootLayout({
